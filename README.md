@@ -7,13 +7,10 @@ The goal is to recognize and localize multiple objects within an image or live v
 - **Model:** YOLOv8 (Ultralytics)
 - **Task:** Object detection (bounding boxes + class labels)
 - **Dataset:** [COCO 2017](https://cocodataset.org/#home) (subset of classes for faster training)
-- **Output:** Real-time detection of objects in images, videos, or webcam feed
 
 ## ✨ Features
-- Train YOLOv8 on a custom COCO subset
+- Train YOLOv8 on a COCO subset
 - Evaluate performance with mAP and IoU metrics
 - Visualize bounding boxes and class predictions
-- Real-time detection using OpenCV + YOLOv8
-- (Optional) Interactive demo with Streamlit or Gradio
 
 ## 📂 Repository Structure
