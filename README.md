@@ -1,6 +1,4 @@
-# Object_detection_YOLO
-
-# Real-Time Object Detection with YOLOv8
+# Object detection using YOLO
 
 This project demonstrates how to train and deploy a **YOLOv8 object detection model** for real-time image and video analysis.  
 The goal is to recognize and localize multiple objects within an image or live video stream, showcasing practical applications of **computer vision and deep learning**.
